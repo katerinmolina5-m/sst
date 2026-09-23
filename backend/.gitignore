@@ -1,0 +1,16 @@
+#Nunca se suben al repositorio
+node_modules/
+
+# SEGURIDAD Y SECRETOS
+.env
+*.pem
+*.key
+
+# LOGS DE ERRORES 
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+.DS_Store
+Thumbs.db
