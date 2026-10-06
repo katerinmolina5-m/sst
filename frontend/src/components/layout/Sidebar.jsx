@@ -20,8 +20,8 @@ export default function Sidebar() {
               <span>Nursing</span>
               <span className="w-2 h-2 rounded-full bg-purple-600"></span>
             </button>
-            <button className="w-full text-left px-3 py-2 rounded-md text-slate-700 hover:bg-slate-200/60 hover:text-slate-900 text-xs transition">
-              Onboarding Exams (RH)
+            <button className="w-full text-left px-3 py-2 rounded-md bg-purple-100 text-purple-950 border-l-2 border-purple-600 font-medium flex justify-between items-center text-xs shadow-xs">
+              <span>Hiring</span>
             </button>
           </nav>
         </div>
